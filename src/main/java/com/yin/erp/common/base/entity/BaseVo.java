@@ -1,4 +1,4 @@
-package com.yin.erp.common.entity;
+package com.yin.erp.common.base.entity;
 
 /**
  * 基本VO

@@ -1,4 +1,4 @@
-package com.yin.erp.common.exceptions;
+package com.yin.erp.common.base.exceptions;
 
 /**
  * 基本异常

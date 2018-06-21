@@ -1,4 +1,4 @@
-package com.yin.erp.common.service;
+package com.yin.erp.common.base.service;
 
 /**
  * 基本服务层

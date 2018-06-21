@@ -1,4 +1,4 @@
-package com.yin.erp.common.controller;
+package com.yin.erp.common.base.controller;
 
 /**
  * 基本控制器

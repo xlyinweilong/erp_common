@@ -1,4 +1,4 @@
-package com.yin.erp.common.mapper;
+package com.yin.erp.common.base.mapper;
 
 /**
  * 基本数据库资源
