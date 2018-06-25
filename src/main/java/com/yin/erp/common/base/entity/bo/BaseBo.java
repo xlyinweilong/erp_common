@@ -1,4 +1,4 @@
-package com.yin.erp.common.base.entity;
+package com.yin.erp.common.base.entity.bo;
 
 /**
  * 基本BO
